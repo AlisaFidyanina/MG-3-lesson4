@@ -1,6 +1,6 @@
 @media (min-width: 640px) {
 	.menu__button {
-		visibility: hidden;
+		display: none;
 	}
 	.title {
 		font-size: 45px;
@@ -13,6 +13,6 @@
 		font-size: 24px;
 	}
 	.menu__list {
-		visibility: hidden;
+		display: none;
 	}
 }
